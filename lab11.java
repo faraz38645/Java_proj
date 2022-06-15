@@ -12,7 +12,8 @@ class UnitTest {
 			res= true;
 		} else {
 			System.out.print("THE NUMBER IS ODD: " + a);
-			System.out.println("working")
+			System.out.println("working");
+			System.out.println("working");
 			res= false;
 		}
 		return res;
